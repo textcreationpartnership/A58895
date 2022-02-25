@@ -1,0 +1,757 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The seaman's opinion of a standing army in England in opposition to a fleet at sea, the best security of this kingdom : in a letter to a merchant / written by a sailor.</title>
+            <author>Sailor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 40 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58895</idno>
+            <idno type="STC">Wing S2189_VARIANT</idno>
+            <idno type="STC">ESTC R34230</idno>
+            <idno type="EEBO-CITATION">14152983</idno>
+            <idno type="OCLC">ocm 14152983</idno>
+            <idno type="VID">102118</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58895)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 102118)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1069:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The seaman's opinion of a standing army in England in opposition to a fleet at sea, the best security of this kingdom : in a letter to a merchant / written by a sailor.</title>
+                  <author>Sailor.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by the booksellers of London and Westminster,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  History.</term>
+               <term>England and Wales. --  Royal Navy --  History.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:102118:1" rendition="simple:additions"/>
+            <p>THE <hi>Seaman's Opinion</hi> OF A <hi>Standing Army</hi> IN ENGLAND, In Oppoſition to a Fleet at Sea, the Beſt Security of This Kingdom.</p>
+            <p>
+               <hi>In a LETTER to a Merchant,</hi> Written by a SAILOR.</p>
+            <p>
+               <hi>Printed according to Order.</hi>
+            </p>
+            <p>
+               <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </hi> Printed, and Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1699.</p>
+            <p>
+               <hi>Price Two Pence.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb n="2" facs="tcp:102118:2"/>
+            <head>The Sea-man's Opinion of a Standing Army, <hi>&amp;c.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have read with no ſmall conſideration, the Argument<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for and againſt a Standing Army, ſo warmly argued on both ſides; one making falſe Weights and Mea<g ref="char:EOLhyphen"/>ſures, allowing nothing to be true Weight that is not weigh'd at the Court-Beam; while the others lay their Reaſons and Arguments in the Peoples Scale, and weigh the common Intereſt and our Conſtitution againſt the Court Projects. I muſt confeſs, the latter are much in the right for Laws were made for the general Good of all the Sub<g ref="char:EOLhyphen"/>jects, and are by no means to be altered to the prejudice of the People: The Engliſh Conſtitution has no reſpect to thoſe future Contingencies and Emergences which may hap<g ref="char:EOLhyphen"/>pen to crowned Heads. Our Fore fathers thought thoſe Laws which were of Force and Virtue enough to keep them in the poſſeſſion of their Eſtates, equally powerful t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſecure the Regalities of the Crown to the King, and would be alike advantageous to their Poſterity; and I know no Reaſon why we ſhould be of another Opinion.—The main Reaſon the Court-party offers for a Standing. Ar<g ref="char:EOLhyphen"/>my, is the entire Confidence we may repoſe in the King on the account of the heroick Virtues inherent in him and his firm and ſincere Intentions to the preſervation of the Nation, and the Rights of the Subject; ſo that if the People of <hi>England</hi> do not truſt the King with their Lives, Liber<g ref="char:EOLhyphen"/>ties and Eſtates, they would inſinuate as if they did miſtruſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him. I may know my Neighbour to be a very honeſt Man and yet have no occaſion to truſt him with the Deeds o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> my Eſtate, my Money or Goods: nor need the People ex<g ref="char:EOLhyphen"/>change <hi>Magna Charta</hi> for the King's Letters Patents fo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Liberties <hi>durante beneplacito;</hi> for ſo it muſt be whe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he is arm'd with force at any time to take it away. I have a much, nay, a greater eſteem of the Royal and Princel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="3" facs="tcp:102118:2" rendition="simple:additions"/>Virtues of his Majeſty, than any Courtier of them all; and though I could truſt the King with a great deal, yet I ſhould not care to truſt them with a little. A Government ſettled by the People of <hi>England</hi> ought to be maintained by them; and without doubt the People will maintain a King in thoſe Rights and Prerogatives they have granted and confirmed to him, otherwiſe it will be a Reflection which hitherto has not happened upon them: but to main<g ref="char:EOLhyphen"/>tain a Government upon any other Principles, than ſuch on which it is founded, is ridiculous. The Superſtructure ought to be conform to the Foundation, the Building other<g ref="char:EOLhyphen"/>wiſe is irregular and inarrificial; and for the People to un<g ref="char:EOLhyphen"/>dermine the Foundation of their Liberties, and raze it to the ground, only to build a Pyramid of Honour, or a Tri<g ref="char:EOLhyphen"/>umphal Arch for a Prince, is downright Nonſenſe. A Government ought to be ſupported; but it muſt be conſi<g ref="char:EOLhyphen"/>der'd withal how it deviated from its Inſtitution: when we know what a Government is, we can quickly find fit props to ſupport it, and fit Force to defend it. 'Tis pity there ſhould be a diſtinction betwixt the King, and the Govern<g ref="char:EOLhyphen"/>ment, which it muſt be allowed when the Courties call themſelves the Government: As a certain Perſon was com<g ref="char:EOLhyphen"/>mitted to the Cuſtody of a Meſſenger by the Secretary's Warrant, for <hi>publiſhing and diſperſing a ſeditious and ſcanda<g ref="char:EOLhyphen"/>lous Libel againſt His Majeſty and Government;</hi> whenas it only contain'd Matter of Fact againſt ſome Commiſſioners. Well then, theſe Commiſſioners are the Government; and I am of opinion, if it be thus, that 'tis not worth our while to keep up twenty thouſand Men to ſupport it. Set<g ref="char:EOLhyphen"/>ting themſelves thus up, they leſſen the King and his Pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ogative; as if the King had the Legiſlative, and they the governing Power. Evil Miniſters and Officers have in all Times prov'd prejudical to the Prince that employ'd them; or they acting after an illegal and arbitrary manner in their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>everal Stations, cauſe ſuſpicion that the Prince by whom they are commiſſionated, will, when enabled with Force, to the like, or worſe: and tho ill Miniſters and Officers may act-illegally, and after an arbitrary manner, without the Knowledge, nay contrary to the Conſent and Appro<g ref="char:EOLhyphen"/>bation
+<pb n="4" facs="tcp:102118:3"/>of the Prince; yet all their Actions tend to the weakning of his Government, and to create Jealouſies in his People. Men judge of the Fountain by the Purity o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Impurity of the Streams; and Juſtice being deny'd or de<g ref="char:EOLhyphen"/>lay'd by Officers and Miniſters, they preſently look back to the orginal Contract and Coronation Oath, with a great deal of Doubt and Heſitation. It was a noble and glori<g ref="char:EOLhyphen"/>ous Saying of our great and renowned Prince <hi>Edw.</hi> 3 when he hang'd his Chief Juſtice <hi>Thorp,</hi> of the <hi>King's Bench,</hi> for taking a Bribe of 100 <hi>l. That he being intruſte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as the King's Deputy, to adminiſter Juſtice in that Court, ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> as much as in him lay broken that Solemn Oath that his Majeſt made to his People at his Coronation.</hi> Inſtead of a Land Fore<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to defend Evil Miniſters, this wiſe Prince procur'd a Halte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to hang them. If Men in great Offices have been guilty of enomous Crimes, have laviſhly ſpent and ſquander away Parliamentary Funds rais'd for the ſecurity of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Nation, muſt the People of <hi>England</hi> make a rent in thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Conſtitution, and raiſe and pay Twenty thouſand Men t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> maintain them in their vicious Practices, and ſecure then from the Violence and Inſults of the common People They are grown already to ſuch a height, that their is n<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> way of calling them to an Account. If an inferiour Boar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> commit a Crime, rob, (embezel; plunder the Nation, and of rich themſelves with the Puplick Spoils of the Kingdom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and a complaint be made to the Lords of the T—ry, the refer it (after the Complainer has a long time attended) t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Board complained againſt: after a long attendance (fiv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on ſix Months I have known it) a Report is made; th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> T—ry acquieſces with the Report, and the Complainer fruſtrated of his honeſt Intentions. It is a Law amongſt'e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> never to hear the Complaint of an Inferiour Officer again a Superiour; as one of the Commiſſioners of the Ex— told a certain Perſon, that there was a Reſolution taken u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by all the Commiſſioners in the Kingdom, that if an Infe<g ref="char:EOLhyphen"/>riour Officer complain'd of Miſmanagement, they woul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> repreſent him either as a Fool or a Knave, or elſe mak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> him ſo uneaſy that he ſhould be forc'd to quit his Employ<g ref="char:EOLhyphen"/>ment: and this appears to be true, for moſt, if not all th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:102118:3"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fficers that have complain'd of Miſmanagements, hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een diſcharg'd for ſo doing. How then ſhall theſe Men <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> puniſhed? Why the laſt Reſort you know is a Parlia<g ref="char:EOLhyphen"/>ment; and if you read over the Liſt, you will ſoon find <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ow many Courtiers were there, Judges of their own Cauſe, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd Auditors of their own Accounts. So that, <hi>Sir,</hi> I think <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> aſhoar are in a fine pickle, if ever theſe Men get a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tanding Army to ſupport their Miſmanagements by point <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>f Sword, and the powerful Arguments of Pike and Gun: <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or our Controverſy is not about truſting the King with a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tanding Army, we pay Him all the Deference imaginable; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut we are loth to be at the charge of guarding of thoſe <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at have not regarded the Publick Good, nor thoſe worthy Gentlemen that ventur'd their Lives to bring the King to <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e Throne, and to promote them to Offices of Truſt and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e greateſt Profit. Their reſtleſs Endeavours to gain the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oint of a Standing Army, have other meanings in them <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hen the ſpecious pretence of Publick Safety. When the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ox preaches, beware of the Geeſe; there is ſome Fetch or <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther, ſome Snake or other in the Graſs, that will not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>riggle it ſelf into view, but under the Umbrage of a <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>and Force. You muſt bear, <hi>Sir,</hi> with my homely Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ariſons, as well as with my indifferent Language; we Tars don't pretend to polite Learning, and finery of Speech. But to illuſtrate my Diſcourſe, I muſt tell you, that the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aſt Voyage I made was to <hi>New-England,</hi> the Commander of the Ship I ſail'd in was a Man of Virtue and Probity, very <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kilful in Navigation, and one that had a due regard to the Profit and Advantage of his Owners. But the Mare, Boat<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wain, Gunner, and other Officers, were men of vicious Principles, and work'd ſo far upon the good Nature of the Captain, that they got entire poſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſion of him, to the no ſmall loſs of the Merchants, and the trouble of all the ho<g ref="char:EOLhyphen"/>neſt Sailors aboard. When we came to <hi>New England,</hi> and had taken in our Loading, being homeward bound, they per<g ref="char:EOLhyphen"/>ſwaded him to take more Men, more Forces aboard, u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>der <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>retence of Advice they had received fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m <hi>England</hi> of ſome <hi>Turkiſh</hi> Men of War that lay in the Chaps of the Engliſh Channel. The poor Captain believ'd a neceſſity upon ſuch
+<pb facs="tcp:102118:4"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> or augmenting his Forces, being unwil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to have his Ship pirated from him: The Forces wer<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ailing apace, when it was diſcover'd that theſe Fellow<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had a deſign to run away with the Ship; ſo that had thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Deſign taken effect, the good natur'd Captain had been thrown overboard, and I had now been among the <hi>Mada<g ref="char:EOLhyphen"/>gaſcar</hi> Pirates. Ill Men contrive all ways, firſt to raiſe them<g ref="char:EOLhyphen"/>ſelves by Villany, and then to ſupport themſelves in it. The ſame Effect your Land-Force may have upon you; Your Captain I know is a good Commander, of Principle and Addreſs, and I verily believe deſigns you no harm: but his under Officers, if they deſign'd you any good, would have done it before this time. Beſides, if you have a mind to keep your King, keep him from a Standing Army: King <hi>James</hi> had been here ſtill, had it not been for his Standing Army, an Army model'd by the Vipers which lay in his Boſom for that purpoſe. I like the Effects of that Deſign ſo well, that I deſire no more of that nature: We have a Government founded upon good Principles; a Revolution of which every ſtep has attended by Divine Providence; a King, who governs according to the Rules of Juſtice at home, and is the Head and Leader of our Armies abroad, to his own immortal Honour, and the good and welfare of his People; and every good Engliſhman and Chriſtian ought to bleſs God for it. An Engliſh King, and an Engliſh Peo<g ref="char:EOLhyphen"/>ple, ſute well together; and ſince we are bleſt with both, we have no reaſon to promote new Whimſeys in the head of one, to create Jealouſies in the other. The notion of an Invaſion from the Man abroad is not ſo much a Propoſi<g ref="char:EOLhyphen"/>tion of Horror, as the notion of our Liberties being inva<g ref="char:EOLhyphen"/>ded at home; and we are in more danger of thoſe Horſe<g ref="char:EOLhyphen"/>leaches of Government that fill, themſelves from the Veins of the State, than from Foreign Troops. Money is the Sinews of War; but the Sinews once weakned, the Body is in a tottering condition. A Standing Army muſt be ſed, and when once without Pay, muſt live upon Free-quarter; for there is no reaſon that Men rais'd for the ſervice of their Country, ſhould ſtarve in it. I would fain know what theſe Men would do with a Standing Army, unleſs (as be<g ref="char:EOLhyphen"/>fore)
+<pb facs="tcp:102118:4"/>to guard them from the Violence of the Mob. Where ſhould they encamp, to be in a readineſs to oppoſe an In<g ref="char:EOLhyphen"/>vaſion? Had they as many Armies as there are Landing places in <hi>England,</hi> we might have ſome Security. Few of theſe Men that talk of Standing Armies, have had the Courage to go abroad to the Wars; but now perhaps for their Diverſion, at the expence of the Kingdom, they are willing to ſee <hi>Namur</hi> taken at <hi>Windſor,</hi> or a Butterfly Camp at <hi>Hounſlow-Heath,</hi> where the Forces muſt attend the Mo<g ref="char:EOLhyphen"/>tions of the Man abroad:</p>
+            <q>
+               <l>Where the Knights Errant lie Legs acroſs.</l>
+               <l>Expecting what muſt never come to paſs.</l>
+            </q>
+            <p>They Sky falling to the utter deſtruction of the whole Spe<g ref="char:EOLhyphen"/>cies of Larks; French Invaders in Fleets of flying Wheel-barrows, and abundance of ſuch odd Chimera's, if not worſe. How will they model this Army? as they have done the Civil Offices? Will they fill Commiſſions with rancour'd Tories, confirm'd Jacobites, and Non-Jurors? Shall Men of Worth, Merit and Affection to the Govern<g ref="char:EOLhyphen"/>ment, be as ſcarce in this Army as they are in the Cuſtoms and Navy? God forbid! How many years Purchaſe muſt a Commiſſion be ſold for; and where will be the place of Sale, and who the Broker, now Sir <hi>Fleet</hi> is dead? Few of the King's, and their Country's Friends, have got Money to buy; muſt they be ſold to thoſe that got Pardon-money in the late Reigns of thoſe that are ſtarving ſince this Re<g ref="char:EOLhyphen"/>volution? Well, there may be a formidable Invaſion, and the Nation in a great deal of Danger thereupon. The whole ſtrength of the Nation is not able to withſtand it, and yet the Party pretend that Twenty thouſand men out of that ſtrengah ſhall do it; that is as much as to ſay, ſeven Millions of Men are not able to withſtand an Invaſion, but Twenty thouſand of the ſeven Millions are; the <hi>Minor</hi> is of greater force, power and virtue than the <hi>Major:</hi> if the Folk in power ſay ſo, 'tis true enough; better a Nation be ruined, enſlav'd, or any thing elſe, than they be thought to err in Judgment, or miſs their Ends. But ſuppoſe the worſt, that a French Army ſhould land; why then it we han't a Standing Army, the great Places at <hi>White Hall</hi> will
+<pb facs="tcp:102118:5"/>be in a tottering condition: but ſuppoſe they don't land and we have a Standing Army in expectation of it; wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> then the great Folk at <hi>White-Hall</hi> are all the time fingerin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Money raiſed to pay them, not to their diſadvantage to b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſure. 'Tis no matter whether we are invaded or no, as lon<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as their Trade goes forward. Now tho your Earthquak<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> don't diſturb the Element I ſojourn on, yet I may give m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Opinion concerning you Affairs as well as ſome of you hav<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> as to the Management of the Fleet that know no other diffe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ence betwixt Salt Water and Freſh than by the Taſte. I re<g ref="char:EOLhyphen"/>member I was at an Anchor in <hi>Studland Bay,</hi> when there wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> juſt ſuch another Invaſion in the Iſle of <hi>Purbeck,</hi> as you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Folk expect. If there was then any Standing Army, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were guarding the Royal Ducks in St. <hi>James</hi> Park, ot other<g ref="char:EOLhyphen"/>wiſe employ'd; but I am ſure they were not there. No<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> without any Royal Mandate, Commiſſion, or any Orde<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from above, the bold <hi>Brittons</hi> aſſembled in a hoſtile mane<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> with all the Weapons of Defence the Country could affor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and without any Ceremony march'd to the Place of landing The Rumour of the French Numbers was Ten thouſand, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in 48 hours there were a Hundred thouſand in Arms in <hi>Doſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ſhire,</hi> and the adjoining Counties, who came down tin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> enough to the Sea ſide to engage the Invaders. I believe <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> theſe Hodmandods, Raw-heads and Bloody-bones, wit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which the Children of <hi>England</hi> are now ſcar'd, ſhould ap<g ref="char:EOLhyphen"/>pear, we ſhall be in a good poſture of defence, withou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Twenty thouſand Red Coats, which are morr terrifyin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> thun an Idvaſion.</p>
+            <p>Now theſe Bugbears and Scare-crows, this Viſionary In<g ref="char:EOLhyphen"/>vaſion that haunts the Ruins of <hi>White-Hall,</hi> being remov'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> out of ſight, let us recover our Senſes, and ſcan the poin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whether the Militia regulated and diſciplin'd may not be a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> powerful to withſtand an Invaſion, as Twenty thouſand <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> that Militia (for every one capable of bearing Arms belong to it) liſted and entered into Pay. But they ſay the Militi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is not diſciplin'd; whoſe Fault is that? Was it not in thei<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> power that contend for a Standing Army, to have diſciplin'<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Militia ſince the Controverſy in the Houſe of Com<g ref="char:EOLhyphen"/>mons laſt Seſſions about it? If the Officers of the Militi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb facs="tcp:102118:5"/>can't be truſted, 'tis the fault of thoſe that made 'em Offi<g ref="char:EOLhyphen"/>cers. A neligence in this Point, and trumping up a Standing Army at the ſame time, looks as if their Army were to do ſome buſineſs the Militia will not do; for it is evident the Militia can do more than twenty times the Forces they de<g ref="char:EOLhyphen"/>ſire, when neceſſity ſhall require it. Beſides, Twenty thou<g ref="char:EOLhyphen"/>ſand Men diſpers'd are no Army; their being in a body makes them one, but a body can be only in one place at a time. We have abundance of Landing-places, and our Army can be but at one of them, and I know already the Invaders won't land there. Now on the other hand, they can't land no where in <hi>England,</hi> but the Militia will be at the place, enough of them to make a ſtand till the reſt come up; ſo that if we had a Standing Army, the greateſt uſe of them at that Juncture would be to come in for the Plunder of the field. But the Authors for an Army, like Mr. <hi>Bays</hi> in the <hi>Rehearſal,</hi> are reſolved to preſent the World with ſomething very ridiculous, and have not yet determined the point whether the two Kings of <hi>Brentford</hi> ſhall head their Standing Army with both Boots on, or one off.</p>
+            <p>As I don't know the deſigns, ſo I am ignorant of the Conſequences of what theſe Men make ſuch a buſtle about; but it tends to create a Miſtruſt in the King of his beſt Sub<g ref="char:EOLhyphen"/>jects, and tells him plainly he cannot be ſecure in his Throne, and enjoy his Prerogative, without making an Alteration in our Conſtitution; and that the People's Liberty, and the Regalities of the Crown cannot be ſafe at the ſame time. Now, if I ſhould aver, that our Conſtitution muſt of ne<g ref="char:EOLhyphen"/>ceſſity tumble down, if a Branch of the King's Preroga<g ref="char:EOLhyphen"/>tive were not lopt off to make a prop to ſupport it, I ſup<g ref="char:EOLhyphen"/>poſe the Secretary of State would eſteem it a State Crime, and I ſhould be viſited with the plague of a Meſſenger; when at the ſame time theſe Authors raiſe Bulwarks, and plant their Cannons upon them to batter down our Conſtitu<g ref="char:EOLhyphen"/>tion, break down the Frences of our Liberty, and deſtroy thoſe privileges which have immemorially been the Rights of our Anceſtors; and all this conniv'd at, if not encoura<g ref="char:EOLhyphen"/>ged. Have the Liberties of the People no Guardians? Are there none to proſecute ſuch Offenders in the name of the
+<pb n="10" facs="tcp:102118:6"/>Good People of <hi>England?</hi> Where is the Juſtice, Glory, and Honour of our Anceſtors? Are all their glorious Marks obliterated in their Poſterity? Are the ends of the World come upon us, that we are willing to ſee an end of our Li<g ref="char:EOLhyphen"/>berty? Are our Rights leſs valuable, our Laws of no leſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> force than formerly? Are we ignominiouſly willing to give away what our Fore-fathers left us at the expence of their Blood? God forbid that the Children unborn ſhould curſe us as cruel Sep-Fathers that have diſinherited them of their Birth-right. Will not ſucceeding Generations think, tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> either our Rights were not worth keeping, or that we in<g ref="char:EOLhyphen"/>gloriouſly betrayed our Children in parting with them Will not the Roman Honour and Gallantry, which inſpi<g ref="char:EOLhyphen"/>red Heathens newly acquainted with Laws and Principle<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Government, riſe up in judgment againſt us, when w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prove treacherous Deſerters of our Liberties, and raiſe and pay Twenty thouſand Men to take poſſeſſion of our Free<g ref="char:EOLhyphen"/>hold? Are not thoſe who ſurrender'd Charters, gave awa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Birth-right, and betray'd the Liberties of their Coun<g ref="char:EOLhyphen"/>try in the late Reigns, juſtly branded with the marks of In<g ref="char:EOLhyphen"/>famy, and their Memories handed down to Poſterity as ig<g ref="char:EOLhyphen"/>nominious and ſcandalous? And ſhall we, who have ſpent <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> many Millions to undo what they did, and retrieve our ſin<g ref="char:EOLunhyphen"/>king State from utter Ruin, tread in their ſteps, act th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame Trag<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dy, and play over the ſame Game? Was a Stand<g ref="char:EOLhyphen"/>ing Army but a few years ago, accounted a Grievance, an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> now become a thing deſirable? Is it not attended with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame danger, or are we grown leſs ſenſible of it? Are we i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the ſame condition with thoſe that are troubled with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> French Diſeaſe, of whom it is ſaid, when once cured the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are more deſirous to commit the Sin again? Are we clapt i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> our Underſtandings, that we are willing to return into th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſame languiſhing Condition, of which we are ſo lately reco<g ref="char:EOLhyphen"/>vered, and have pay'd ſo dear for the Cure? Let the Plea<g ref="char:EOLhyphen"/>ders for a Standing Army conſider, how much a Standin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Army was accounted a Grievance in the late Reigns, and ho<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> much it tended to the deſtruction of the King that rais'd i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> and they may eſteem their deſigns impracticable; for it ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be no other than a Reflection upon the Wiſdom of the Eng<g ref="char:EOLhyphen"/>liſh
+<pb n="11" facs="tcp:102118:6"/>Nation, voluntarily to give one King what they forc'd from another, to ſecure themſelves in the peaceable poſſeſſi<g ref="char:EOLhyphen"/>on of their Eſtates: and no wiſe Man can imagine, that in a Government founded on good and wholeſom Laws, a thing that turn'd one King out of the Throne, ſhould keep another in it. If you have the ſame People to manage this Standing Army, that managed the late K. <hi>James</hi>'s you have the ſame People to oppoſe this Standing Army as oppos'd the other; and in all likelihood you'l be brought into the ſame Diſorder and Confuſion: wherefore I think, all things conſidered, you had better be without it.</p>
+            <p>Thus far, Sir, I have ventur'd out of my Element, to give you my Sentiments of Affairs aſhoar; now ſuffer me to ſtep aboard my Ship, and give an account of another Se<g ref="char:EOLhyphen"/>curity to our Kingdom little heeded or talk'd of, I mean our Shipping. It is ſuppoſed theſe horrible Invaders will not<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y over the Seas in the Air, nor will they ſhove themſelves over in leaden Boats under Water; they are compounded of Fleſh, Blood and Bones, contrary to the nature of Spirits; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hey are viſible and tangible Subſtances: therefore let us con<g ref="char:EOLhyphen"/>ſider how we Sailors may handle them; for it is a demon<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rable Argument, if we can drown or burn them at Sea, you'l <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave no occaſion of a Land Army to knock 'em oth' head <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhoar. By your inſiſting ſo much upon a Land Force as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceſſary to withſtand an Invaſion, you ſeem to yield up <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Empire and Dominion of the Sea, which I am very un<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illing to grant, knowing the Engliſh have no Rivals in <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at Affair, nor no Nation capable of taking poſſeſſion of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hat Dominion. If we could beat an Enemy at <hi>la Hogue,</hi> and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urn fourteen of their three Deck Ships at one time, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight have quite ruin'd them at Sea then, had it not been or the wonderful good Nature of you know who; I ſay, if we could do what they have not yet been able to recruit, nor <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erhaps never will unleſs we fell 'em Timber to build more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hips; if they have loſt their Ships, and we have augmented <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urs by a far greater number than they have loſt, I hope we <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not now leſs able to fight an Invader. I ſuppoſe the Diſ<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbarkment of the Prince of <hi>Orange</hi> was carried on with as <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uch ſecreſy as an Invaſion will be, yet we know how long
+<pb n="12" facs="tcp:102118:7"/>it was talk'd of, and how long expected before it came. Conſider in the next place, how many Ships an Invader muſt have to bring over Men enow to conquer this Kingdom. Now if ſix or ſeven hundred Ships were requiſite to bring over at moſt but Fourteen thouſand five hundred Men, how many well be neceſſary to make an Invaſion upon <hi>England</hi> in order to conquer it? Their numbers muſt be much greater, they come without leave and undeſired; and Invaders let 'em be of what Country ſoever, or of what Religion ſoever, are hated by Engliſhmen. The Prince of <hi>Orange</hi>'s Deſcent upon <hi>England</hi> was no Invaſion but an Invitation, and his Ac<g ref="char:EOLhyphen"/>ceſſion to the Throne no Conqueſt (whatever two or three inſignifiant Prieſts have wrote) but the free Gift and Bene<g ref="char:EOLhyphen"/>volence of the good People of <hi>England.</hi> Yet notwithſtand<g ref="char:EOLhyphen"/>ing all Parties were agreed in his Revolution, how many Accidents happen'd? How often was the Fleet detain'd by contrary Winds? and when at Sea, fore'd to ſteer a Channel Courſe, and in a Line too, which made 'em ſeen by both ſhores. But this Invading Fleet that muſt have at leaſt ten times the number of Men, and conſequently of Ship<g ref="char:EOLhyphen"/>ping, are to come over undiſcover'd. From what place will they come? Why this is the main point; the honeſt Men in Offices tell of an Invaſion, and it is to be done by ſome<g ref="char:EOLhyphen"/>body, that they will not dare name for fear of being Ga<g ref="char:EOLhyphen"/>zetted, and ordered to be proſecuted, as <hi>Dick Baldwin</hi> was for reflecting upon ſome great Perſon at the French Court: They had better run the hazard of Proſecution, and tell the truth; the Proſecution may be bought off, Mr. <hi>Baldwin</hi> gave but eight Guinea's to <hi>Harry B</hi>— and three to his Bro<g ref="char:EOLhyphen"/>ther <hi>N</hi>— and the Proſecution was at an end. But this In<g ref="char:EOLhyphen"/>vaſion can't be brib'd off the Invaders will not ſtay for Gratuities, all is their own when they have conquer'd, and into this Condition we may be brought, becauſe our Standing Army-men are mealy mouth'd and won't ſpeak out. An In<g ref="char:EOLhyphen"/>vaſion may well be a Propoſition of Horror to them, when the very Invaders and the Country they come from, cramp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their Tongues, and frightens them ſpeechleſs, ſo that Twen<g ref="char:EOLhyphen"/>ty thouſand Men and nothing elſe, can bring them again to their Senſes. If they would tell us the Country they'l come
+<pb n="13" facs="tcp:102118:7"/>from, I could give you my opinion in the matter; if I knew their Country, I ſhould know their Ports, and what Con<g ref="char:EOLhyphen"/>veniencies they have for ſhipping their Men; But I'm ſure they have no Conveniency of landing them in <hi>England</hi> unleſs we pleaſe: All we can learn from them is, that 'tis the <hi>Man abrord,</hi> and abundance of Men there are abroad, and which of 'em 'tis we can't tell; this <hi>Man</hi> may be ſomebody or nobody, or any<g ref="char:EOLhyphen"/>body or everybody, ſince he has no name. He may be the Man in the Moon for ought we know, and then we are in a fine condition; his is a Country we know nothing of, nor what kind of People he will bring with him, nor what ſort of Weapons they uſe in Battel: He is certainly an Enemy, becauſe he is no Friend and a powerful Enemy too; his Domi<g ref="char:EOLhyphen"/>nions are very large, and for ought we know very populous; and if he ſhould deſcend upon <hi>Salisbury Plain</hi> with two or three hundred thouſand Mortals, why then the Cathedral Church there will be invaded by Men of a Religion, that have not been educated to mumble the Prayers in <hi>uſum S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rum;</hi> and the beſt <hi>ſtake</hi> in the Hedge of one of our Biſhops is quite loſt, The more I think of it, the more am I terrify'd at the Apprehenſion of ſuch an Invaſion; what a hor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied terrifying Spectacle will it be to ſee Men (nay for ought we know Monſters) deſcend like Hail upon our Coun<g ref="char:EOLhyphen"/>try; where our Ships can't come, and nothing but Twenty thouſand re<g ref="char:EOLhyphen"/>gular Troops can oppoſe? How will our Women and Children be fright<g ref="char:EOLhyphen"/>ed, and our old Men aſtoniſhed at ſuch an Apparition, worſe than that at <hi>Pu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>beck!</hi> Now I ſhould think it moſt proper, to prevent an Invaſion from this Country, to ſend an Ambaſſador thither: We have not given the Man nor any of his Subjects, any affront that I know of; and a Truce or Peace is far better than War, as the Turks and Germans on both ſides affirm; and we have Men of Parts and Senſe enough in our Nation to ſend on ſuch an Embaſſy: We know the Country is very high, yet we are provided with very high Flyers in our Government that have mount<g ref="char:EOLhyphen"/>ed from Footboys, Journeymen and Valets, to Commiſſioners, and o<g ref="char:EOLhyphen"/>ther great Officers; one or two of theſe on this Embaſſy may put an end to our Fears, and render Twenty thouſand armed Men uſeleſs: I could pick a Man or two out of our Officers fit for this Embaſſy, that have riſen with a wonderful Impudence at home, and will no doubt carry a good Stock abroad with them. Theſe high Flyers have one Conveniee<g ref="char:EOLhyphen"/>cy in mounting above the reſt of Mankind<g ref="char:punc">▪</g> they have no weight of Brains to retard their Flight upwards; and if there is any M<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ney in the World in the Moon, they I load enough in their Pockets to haſten their de<g ref="char:EOLhyphen"/>ſcent downwards. If they ſay my Invaſion is ridiculous, I ſay ſo of theirs, as alſo Twenty thouſand Men to withſtand it, and keep out a Force which all. <hi>England</hi> can't beſide do.— Well, it ſeems we muſt ſtill be in the dark about this Invaſion; the Army Authors won<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t tell us whence it will come, and yet tell us a diſmal Story of its coming; ſo that we are left to bare ſuppoſition, which puts nothing at all into being, but in the Foſter-father of Non entities: We have ſuppos<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d it from above the Clouds already, let us deſcend and view the Terreſtrial Globe, view the Coaſts
+<pb n="14" facs="tcp:102118:8"/>of our Neighbours, and ſee from which of them all a Fleet of Ships ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>lanch forth into the deep, and paſs the Ocean with an Army without O<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſtruction from the Royal Navy: 'Tis Nonſenſe to ſuppoſe this Invaſi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to come from <hi>Holland,</hi> which ſolately aſſiſted us with Forces in order <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> recover our loſt Liberties; thoſe that help<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d knock our Fetters off, w<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> not be for putting them on ſo ſoon already. But ſuppoſe <hi>Holland</hi> had deſign upon <hi>England,</hi> let us conſider how impracticable ſuch a deſign wou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> be, whilſt <hi>England</hi> has ſo good a Fleet of Sheeps of War: Thoſe Auxillar <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Forces they lent the good People of <hi>England</hi> upon the Revelution, m<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> with abu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dance of Obſtacles and Difficulties in ſhipping the Horſes a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Men, which kept the Enterprize ſo far back, that the very Regiments, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Names of the Colonels commanding thoſe Regiments, and an exact A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>count of the Number of the Men Houſe and Foot, was printed in th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Engliſh Gazette long before they ſaw the Coaſt of <hi>England;</hi> ſo that th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Engliſh Nation had then as much time to prepare to oppoſe them, ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they been as willing, as they had to prepare to receive them; <hi>Volen<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> non fit injuria.</hi> The Revolution pleas'd the Nation, if the major part <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the People may be called ſo. The Fleet under the Command of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Earl of <hi>Dartmouth,</hi> and in a proper Station too, could eaſily have obſtruct<g ref="char:EOLunhyphen"/>ed that Expedition: But the Seamen were in a Confederay with th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Landmen in the Intereſt of their Country, and I hope in God ever wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> be; and it is not often the Engiliſh Fleet has let an Atmed Navy pa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> through their Channel without one Broadſide.</p>
+            <p>We muſt imagine it not come from <hi>France</hi> immediately after the Rati<g ref="char:EOLhyphen"/>fication of a ſolemn Peace, ſo honourable to the Engliſh Nation: Bu<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſuppoſe <hi>France</hi> at any time ſhould have the Vanity to invade <hi>England,</hi> wil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> not our Naby <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſuffi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ient to put a ſtop to ſuch an Invaſion? The French Councils perhaps are as ſecret as any in the World, and tho vulgar Eye<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> cannot pry into the Cabinets of thot Prince, yet his firſt and ſecond Rat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Men of War are eaſily diſcerned; I hope they'l rig their Ship before the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> put them to Sea, they'l careen, and gun, and man them, and all thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can't be done in a Chimney-Corner: Their Caulkers, Hammers, and Carpenters adzes, will make ſome noiſe; we ſhall hear ſomething of i<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſure. Conſider their Ports, and where their Ships are laid up, and you may eaſily conclude they can't ſoon join upon ſuch a deſign. Beſides, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> muſt rendezvouz ſomewhere, ond that Wind which brings one half o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Fleet to the place of rendezvouz, keeps the other half back; ſo tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if the Peace did not put us out of this danger, our Fleet would be a ſuf<g ref="char:EOLhyphen"/>ficient Guard ogainſt it. —<hi>Spain</hi> is in a firm Alliance with us, and had good Belly-full of Invaonſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>in 83, which is not yet digeſted, and the Nor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>then Crowns never made any Pretenſions of this nature; ſo that I dare boldly affirm we are in no danger of an Invaſion from any known par<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the World, and the <hi>Terra Incognita</hi> is a long way off.</p>
+            <p>In the ſhort view I have taken of the Condition of our Neighbours and their ſtrength in Shipping, compar'd with the Naval Force and Ma<g ref="char:EOLhyphen"/>ritime Strength of <hi>England,</hi> I believe if all of them ſhould intend an In<g ref="char:EOLhyphen"/>vaſion upon <hi>England,</hi> they could not accompliſh it. For, as I have ſaid before, it cannot be done but we muſt have notice of it; and while they
+<pb n="15" facs="tcp:102118:8"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re fitting out their Fleet we may do the ſame: our Fleet being out, and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iuided into Squardons, appointed in proper Stations, would eaſily in<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ercept them.</p>
+            <p>Now the Uſefulneſs of a Fleet, as the beſt Guard to <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> is evident, not only from Reaſon, but from undoubted Hiſtory, and plain Matter of Fact; many Inſtances whereof our Tars often at Sea talk and boaſt of, many of which I <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ould inſtance in, were I not too far gone already beyond the Limits of a Letter. But however I muſt tack about again <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pon your Land-Army Folk; and to avoid all Animoſities, Quarters and Heats, I ſhall not tell how much nor how little was done during this War by the Land-Army in <hi>Flanders;</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ut ſhall only hint what might rationally have been done by <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Fleet under a good Management and Conduct. Of ſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>any Millions of Money that have been ſpent during this War in Land <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>orces, ſuppoſe ſome of that Money and thoſe Forces had been us'd on <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oard the Navy, would not fifteen or twenty Thouſand of them thus em<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oyd, have done more Miſchief to the Enemy than fifty or threeſcore <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>houſand in <hi>Flanders?</hi> They might have landed in their Country, their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſible part, which we have ſo gently touch'd; ſuch a Force would have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een ſufficient to have ravag'd 10 or 20 Miles round in their Country, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd when the Enemy had got ſufficient Force together to repel them, they <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ight e'en have march'd aboard again with their Plunder: and coaſting <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ong their Country, in two or three days time have landed again a hun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d d Miles from the place they landed in before, and retired aboard as <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>fore, and practis'd this Trade along their Coaſt from Eaſt to Weſt; <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is would have been a tireſome Diverſion indeed: They would thus have <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d no time to ſow or reap, or dre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s their Vineyards; this would have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vorted their Armies abroad, perpetually haraſs'd their Arrear-ban at <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>me, kept their Peaſants from their Employment, and fill'd 'em with <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ars and Alarms. Being kept continually waking, it might have alter'd <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e temper of an imperious aſpiring Enemy; waking they ſay will tame a <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>d Horſe, why not a mad Tyrant? But whether our Miſmanagements <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve been occaſion'd thro Ignorance of the Managers, or thro an evil De<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>n againſt our Country, is yet left to determine; but both are equally <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>xious to a Nation, and by continued Succeſſions of Grievances without <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>dreſs, the moſt flouriſhing Kingdom, the moſt glorious Monarch, and <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>oſt warlike. People may at once be empoveriſh'd at home, and grow <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ndalous abroad; for nothing conduces more to the Honour and Glory <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a Nation than the good opininion foreign States and Governments <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve of their Management; they'l give reſpect according to the Polity of <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eir Government; if wiſe they'l court its Favour, if fooliſh they'l de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: The a Man be ſtrong and rich, his Adverſary values it not, know<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his blind ſide, and how to cully him out of his Birth-right. The ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ment of our Maritime Affairs has been the common Subject of all
+<pb n="16" facs="tcp:102118:9" rendition="simple:additions"/>Tongues, as it has been the common Grievance of the Nation; and wh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> makes it the more reſented by thoſe that have paid Money to the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>nagers, and been at the Charge of our Naval Force, is the mighty A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vantage <hi>England</hi> has had over the Enemy in this point. Let us conf<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> the natural Advantage of our Dominions, the happy Situation of our T<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ritories in order to annoy our Enemy: Let us (and that not without ſham<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> look into the <hi>Aquitain</hi> Sea, and behold there the Iſlands of <hi>Jerzey, Guer<g ref="char:EOLunhyphen"/>ſey,</hi> &amp;c in our poſſeſſion, juſt upon the Enemy's Coaſt, provided w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Harbours, convenient Peers, ſafe Roads for Ships to ride in ſecure of Tempeſts, overlooking the Enemy's Ships as they paſs from St. <hi>Malo, Gr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>vile,</hi> &amp;c. and at the ſame to conſider that they have been of no other <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vantage during the War than an accidental Shelter to ſuch of our Ships <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> have touch<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d there, is matter of amazement as well as miſcarriage. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the time of the Civil Wars Sir <hi>Geo. Carteret</hi> was then Governor of the Iſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of <hi>Jerzey</hi> in truſt for the Royal Family, and with about twelve or ſo very ſmall Frigot, ſo annoy'd <hi>England,</hi> that the Government then in b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ing was forc'd to ſend a Fleet with conſiderable Forces to reduce th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Iſland. Had we been wanting of Shipping during the War, the caſe wou<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> have been alter'd; but had a ſmall number of our Ships cruiz'd in t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Station, the very Prizes they would have taken had been ſufficient to h<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> paid the charge of the Ships, provided the ſaid Prizes had not been <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>verted to private uſes, and ſunk in Grants. I have often wonder'd t<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> French during the War did not repoſſeſs themſelves of thoſe Iſlands, no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>withſtanding the ſincere Affection of the Inhabitants to the preſent G<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>vernment, their good Diſcipline and Native Courage: they would <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tainly have made ſome Inſults upon thoſe Iſlands, had they not repeat<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a greater Advantage by them than the poſſeſſion of them would have, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mounted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, for from thence they were ſupply'd with Lead, Pitch, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and other Neceſſaries of War, beſides a ſettled Intelligence of the Affa<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or <hi>England,</hi> and all that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Kings Officers, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Miſmana<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ments every body knows, and we have complainers enow, but the diff<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>cies we labour under is to find out Puniſherr: We have had ſufficient <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>perience that the puniſhing of Criminals with good Offices and Empl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ments, has had an Effect anſwerable to the Folly of the Project, to pun<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> a Captain for giving away a 5th Rate to the Enemy, with preferring <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to a fourth Rate, will never do our buſineſs. If you officer your Sh<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of War with <hi>Rigby</hi>'s, and man them with Landmen, chriſtned by the na<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Marceners, you<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l make but an indifferent ſpot of work of it. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> now I mention Mareeners, I would beg the favour of you, Sir, to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> them at home, and ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m Sentinels over the Farmers Cocks and H<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> for they do us no other ſervice here than to eat up our Proviſions, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> us lowſy, and ſtand in our ways Theſe amphibious Soldiers, that live <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther on Land or Water, are a Scandal to both, and ſerviceable on nei<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> We don't want Sailors now, and are willing to be freed from the F<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>gu<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Land-Lubbers; yet you ſee the Army, folk are deſirous of 'em, any thing <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ther than loſe their point; an Army thy would have, tho if were of Ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>demations, while the Credit, Reputation, and Uſefulneſs of the Eng<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> Navy is ſunk, and overſet by a ſort of Men that have a Neceſſity fo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Land Force, to the ruin of our Country, and the loſs of our Birth rig<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
